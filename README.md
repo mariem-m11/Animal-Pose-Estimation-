@@ -1,7 +1,7 @@
 # Fine-tuned YOLOv8n for Horse Pose Estimation
 
 ## Overview
-This project extends the YOLOv8 model, traditionally trained on the human-centric COCO dataset, to recognize and estimate the poses of horses. Our goal was to test the generalizability of the YOLOv8 pose estimation model by adapting it to a new domain, specifically focusing on equine forms.
+This project extends the YOLOv8 model, trained on the human-centric COCO dataset, to recognize and estimate the poses of horses. Our goal was to test the generalizability of the YOLOv8 pose estimation model by adapting it to a new domain.
 
 ## Dataset
 The model was trained on the "Horse10" dataset, which comprises annotated images of horses in various poses. This dataset challenges the model with different equine postures not present in typical human pose datasets.
